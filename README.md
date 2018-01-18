@@ -6,7 +6,7 @@
 
 # Simple: just run: ssh-keygen
 
-# uses default settings to create private/public key
+## uses default settings to create private/public key
 
 # Permission on a private key should be: 
 
